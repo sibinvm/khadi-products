@@ -21178,3 +21178,9 @@ readers do not read off random characters that represent icons */
 .fa-zhihu:before {
   content: "\f63f";
 }
+.primary-bg-color {
+    background-color: rgb(252, 86, 26);;
+}
+.primary-color {
+    color: rgb(252, 86, 26);
+}
